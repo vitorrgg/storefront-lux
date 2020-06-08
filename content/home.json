@@ -30,13 +30,13 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-06-08T18:58:16.912Z",
-          "end": "2020-06-08T18:58:16.946Z",
-          "img": "/img/uploads/banner2.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner1.png"
         },
         {
-          "start": "2020-06-08T18:58:24.785Z",
-          "end": "2020-06-08T18:58:24.819Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/rect8589.png"
         }
       ]
